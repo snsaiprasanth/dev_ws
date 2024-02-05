@@ -1,0 +1,5 @@
+color_detection
+/dev_ws/devel/.private/color_detection/cmake.lock /dev_ws/devel/./cmake.lock
+/dev_ws/devel/.private/color_detection/lib/pkgconfig/color_detection.pc /dev_ws/devel/lib/pkgconfig/color_detection.pc
+/dev_ws/devel/.private/color_detection/share/color_detection/cmake/color_detectionConfig-version.cmake /dev_ws/devel/share/color_detection/cmake/color_detectionConfig-version.cmake
+/dev_ws/devel/.private/color_detection/share/color_detection/cmake/color_detectionConfig.cmake /dev_ws/devel/share/color_detection/cmake/color_detectionConfig.cmake

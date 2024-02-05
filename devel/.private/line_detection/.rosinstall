@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /dev_ws/devel/.private/line_detection/setup.sh

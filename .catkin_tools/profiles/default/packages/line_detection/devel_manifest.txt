@@ -1,0 +1,5 @@
+line_detection
+/dev_ws/devel/.private/line_detection/cmake.lock /dev_ws/devel/./cmake.lock
+/dev_ws/devel/.private/line_detection/lib/pkgconfig/line_detection.pc /dev_ws/devel/lib/pkgconfig/line_detection.pc
+/dev_ws/devel/.private/line_detection/share/line_detection/cmake/line_detectionConfig.cmake /dev_ws/devel/share/line_detection/cmake/line_detectionConfig.cmake
+/dev_ws/devel/.private/line_detection/share/line_detection/cmake/line_detectionConfig-version.cmake /dev_ws/devel/share/line_detection/cmake/line_detectionConfig-version.cmake

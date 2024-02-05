@@ -1,0 +1,8 @@
+prefix=/dev_ws/install
+
+Name: color_detection
+Description: Description of color_detection
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

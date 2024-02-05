@@ -1,0 +1,6 @@
+devel_space: /dev_ws/devel
+install: false
+install_space: /dev_ws/install
+profile: default
+source_space: /dev_ws/src
+workspace: /dev_ws

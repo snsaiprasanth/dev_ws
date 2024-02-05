@@ -1,0 +1,1 @@
+/dev_ws/devel/.private/line_detection/share/line_detection/cmake/line_detectionConfig-version.cmake

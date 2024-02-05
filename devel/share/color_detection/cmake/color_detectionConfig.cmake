@@ -1,0 +1,1 @@
+/dev_ws/devel/.private/color_detection/share/color_detection/cmake/color_detectionConfig.cmake

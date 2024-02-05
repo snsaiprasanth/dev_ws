@@ -1,0 +1,3 @@
+Symlinking /dev_ws/devel/lib/pkgconfig/line_detection.pc
+Symlinking /dev_ws/devel/share/line_detection/cmake/line_detectionConfig.cmake
+Symlinking /dev_ws/devel/share/line_detection/cmake/line_detectionConfig-version.cmake

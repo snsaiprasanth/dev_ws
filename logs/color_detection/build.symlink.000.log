@@ -1,0 +1,3 @@
+Symlinking /dev_ws/devel/lib/pkgconfig/color_detection.pc
+Symlinking /dev_ws/devel/share/color_detection/cmake/color_detectionConfig-version.cmake
+Symlinking /dev_ws/devel/share/color_detection/cmake/color_detectionConfig.cmake

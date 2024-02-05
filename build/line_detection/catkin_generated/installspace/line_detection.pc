@@ -1,0 +1,8 @@
+prefix=/dev_ws/install
+
+Name: line_detection
+Description: Description of line_detection
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
